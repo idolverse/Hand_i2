@@ -7,14 +7,23 @@
 以下是一只右手所需的零件清单和打印数量：
 
 1个i2_CoverFingerV3
+
 1x i2_FingersMoldX5V3
+
 1个 i2_FingersTipX5V2
+
 1个i2_FingersX5V1
+
 1x i2_HandCoverV1
+
 1个i2_PalmCoverV2
+
 1x i2_PulleyX5V1
+
 1x i2_WristGearV1
+
 1个 i2_WristLargeV2
+
 打印腕部大件、手指模具、手指、腕带、滑轮，最大分辨率 0.25，填充率为 30%，壁厚为 2 毫米，无支撑，无筏。
 
 打印 CoverFinger、FingersTip、HandCover、PalmCover，最大分辨率 0.25，填充率为 30%，壁厚为 2 毫米，需要支撑，如果打印机需要，则需要筏。
@@ -22,15 +31,25 @@
 物料清单：
 
 25个沉头螺钉M3 x 16mm
+
 5 个 M3 x 4mm 沉头螺钉
+
 1 个 M3 x 12mm 沉头螺钉
+
 5 个平头螺钉 M1.5 x 4mm
+
 5个膨胀弹簧3/16英寸x1-3/4或4.8毫米x44.5毫米
+
 6x舵机 JX-6225MG 300度
+
 1x 带状线 16 根 3 米
+
 1 条编织鱼线 0.8 毫米 200 磅，3 米
+
 5个霍尔传感器AH3503
+
 5x 圆盘磁铁直径 2.5mmx1mm
+
 1x 特氟龙管 ID1.5MM X OD2.5MM，3米
  
 
